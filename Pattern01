@@ -14,3 +14,12 @@ System.out.println();
 }
 }
 }
+
+
+Output:
+
+* * * * * 
+* * * * 
+* * * 
+* * 
+* 
